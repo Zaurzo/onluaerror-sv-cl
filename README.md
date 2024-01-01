@@ -1,5 +1,5 @@
 # onluaerror-sv-cl
-Garry's Mod OnLuaError hook pure-lua implementation for Server and Client realms.
+Garry's Mod OnLuaError hook pure Lua implementation for Server and Client realms.
 
 ## Want to use this in your addon?
 
