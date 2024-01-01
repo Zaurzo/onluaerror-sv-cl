@@ -61,7 +61,11 @@ _R[1] = function(msg, ...)
         if not info then break end
 
         local filename = string_sub(info.source, 2)
-        name, id = getAddonData(filename)
+        local _name, _id = getAddonData(filename)
+
+        if _name then
+            name, id = _name, _id
+        end
 
         stack[n] = {
             File = filename,
