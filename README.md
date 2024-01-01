@@ -3,7 +3,7 @@ Garry's Mod OnLuaError hook pure Lua implementation for Server and Client realms
 
 ## Want to use this in your addon?
 
-Keep the file relative to `lua/autorun` and **never** change the file name. This is to keep it shared between addons.
+Keep the file in to `lua/autorun` and **never** change the file name. This is to keep it shared between addons.
 
 ### Note
 
