@@ -1,3 +1,5 @@
+As of January 1st, 2024, this no longer works as `debug.getregistry()` was killed off.
+
 # onluaerror-sv-cl
 Garry's Mod OnLuaError hook pure Lua implementation for Server and Client realms.
 
